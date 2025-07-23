@@ -1,1 +1,1 @@
-This is a simple agent example that generates OpenAPI YAML definitions from an API description. It will utilize an MCP tool (by default, running on localhost:8081) to check the YAML for errors before returning it to the user.
+This is a simple agent example that generates OpenAPI YAML definitions from an API description. It will utilize an MCP server (by default, running on localhost:8081) to check the YAML for errors before returning it to the user. See https://github.com/dnoguerol-goog/mcp-openapi-linter/tree/main for an example MCP server to try it with.
